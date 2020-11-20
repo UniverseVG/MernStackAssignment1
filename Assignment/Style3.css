@@ -135,7 +135,8 @@ footer {
     .services {
         padding: 2% 5% 0px 5%;
     }
-    .box-container {
+    .box-container,
+    .box-container-1 {
         justify-content: center;
         flex-wrap: wrap;
     }
